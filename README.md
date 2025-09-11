@@ -4,7 +4,7 @@
 
 ## Мои навыки:
 
-Python, Pandas, Matplotlib, Scikit-learn, Seaborn, Keras
+Python: Pandas, Matplotlib, Scikit-learn, Seaborn, Keras
 
 PostgreSQL
 <!--
