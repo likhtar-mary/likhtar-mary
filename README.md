@@ -3,6 +3,8 @@
 Я - начинающий специалист по Data Science. После 6,5 лет работы в государственной структуре (инженер службы воздушного движения) решила сменить профессию. Прошла обучение в Яндекс Практикуме по программе "Специалист по Data Science".
 
 ## Мои навыки:
+
+Python, Pandas, Matplotlib, PostgreSQL, Scikit-learn, Seaborn
 <!--
 **likhtar-mary/likhtar-mary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
