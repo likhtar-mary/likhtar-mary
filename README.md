@@ -5,6 +5,7 @@
 ## Мои навыки:
 
 Python, Pandas, Matplotlib, Scikit-learn, Seaborn, Keras
+
 PostgreSQL
 <!--
 **likhtar-mary/likhtar-mary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
