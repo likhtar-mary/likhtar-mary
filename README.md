@@ -8,6 +8,8 @@
 
 <a href='https://github.com/likhtar-mary/Yandex_Practicum_Projects'>Учебные проекты </a>
 
+<a href='https://hh.ru/resume/ea90c060ff0f5b799e0039ed1f41733049684d'>Резюме</a>
+
 ## Мои навыки:
 
 Python: Pandas, Matplotlib, Scikit-learn, Seaborn, Keras
