@@ -6,6 +6,8 @@
 
 <a href='https://github.com/likhtar-mary/likhtar-mary/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9B%D0%B8%D1%85%D1%82%D0%B0%D1%80_2025-11197-015.pdf'>Диплом на русском</a>, <a href='https://github.com/likhtar-mary/likhtar-mary/blob/main/Diploma_ENG_%D0%9B%D0%B8%D1%85%D1%82%D0%B0%D1%80_2025-11197-015.pdf'>Диплом на английском</a> 
 
+<a href='https://github.com/likhtar-mary/Yandex_Practicum_Projects'>Учебные проекты </a>
+
 ## Мои навыки:
 
 Python: Pandas, Matplotlib, Scikit-learn, Seaborn, Keras
