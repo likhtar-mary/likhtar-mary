@@ -2,7 +2,7 @@
 
 Я - начинающий специалист по Data Science. После 6,5 лет работы в государственной структуре (инженер службы воздушного движения) решила сменить профессию. 
 
-Прошла обучение в Яндекс Практикуме по программе <strong>"Специалист по Data Science"<strong>.
+Прошла обучение в Яндекс Практикуме по программе <strong>"Специалист по Data Science"<strong>. В настоящее время прохожу курс "Инженер машинного обучения" в Karpov.Courses.
 
 <a href='https://github.com/likhtar-mary/likhtar-mary/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9B%D0%B8%D1%85%D1%82%D0%B0%D1%80_2025-11197-015.pdf'>Диплом на русском</a>, <a href='https://github.com/likhtar-mary/likhtar-mary/blob/main/Diploma_ENG_%D0%9B%D0%B8%D1%85%D1%82%D0%B0%D1%80_2025-11197-015.pdf'>Диплом на английском</a> 
 
