@@ -9,6 +9,8 @@
 
 - Stepik, программа <strong>«Полный Курс Python 3: от Новичка до Мастера»<strong>.
 
+<a href='https://github.com/likhtar-mary/likhtar-mary/blob/main/stepik-certificate-130664-9308763.jpg'>Сертификат на русском</a>, <a href='https://github.com/likhtar-mary/likhtar-mary/blob/main/stepik-certificate-130664-9308763%20(1).jpg'>Сертификат на английском</a>
+
 <a href='https://github.com/likhtar-mary/Yandex_Practicum_Projects'>Учебные проекты </a>
 
 <a href='https://hh.ru/resume/ea90c060ff0f5b799e0039ed1f41733049684d'>Резюме</a>
